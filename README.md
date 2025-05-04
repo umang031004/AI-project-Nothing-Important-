@@ -1,1 +1,1 @@
-AI Checkers projects, were two coded bots compete.
+AI Checkers project, were two coded bots compete.
